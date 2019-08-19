@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="black">#000</color>
+    <color name="orange">#FA0</color>
+    <color name="white">#FFF</color>
+    <color name="hafif_seffaf_siyah">#cc222222</color>
+    <color name="acik_turuncu">#facd73</color>
+    <color name="transparan">#00000000</color>
+    <color name="sip_kaydet_buton_kirmizi">#fcbebe</color>
+    <color name="hissedilen_sicak">#da1a1a</color>
+    <color name="hissedilen_soguk">#2616b6</color>
+    <color name="hissedilen_ayni">#1c9e0b</color>
+    <color name="ayirici1">#d7d7d7</color>
+</resources>
